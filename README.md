@@ -3,7 +3,7 @@
 <b>Input</b> : sequence file <br>
 <b>Output</b>  : a. forward and reverse strand VDRE plots; b. sequences in the VDRE cluster and their start and stop position on the sequence being analysed.
 
-Publication : [Vitamin D inhibits Hepatitis B virus core promoter activity] S Ahluwalia, D Choudhary, V Perumal1*
+[Vitamin D inhibits Hepatitis B virus core promoter activity] S Ahluwalia, D Choudhary, V Perumal1*
 Email: vperumal@bioschool.iitd.ac.in
  
  
